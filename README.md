@@ -33,7 +33,7 @@
 | Service | Description | Part | Link |
 | --- | --- | --- | --- |
 | Rocket23 | IaC 보안 솔루션 | BE |[Repo](https://github.com/money-driven-development/rocket23) |
-| InitCloud | AWS,NCP Terraform 보안 솔루션 | 정적분석도구개발 및 오픈소스 기여 | [Repo](https://github.com/init-cloud/checkov)  |
+| InitCloud | AWS,NCP Terraform 보안 솔루션 | 오픈소스기여및개발 | [Repo](https://github.com/init-cloud/checkov)  |
 | 5ratherProj | AI알고리즘을 활용한 CCTV 상권분석 서비스 | BE | [Repo](https://github.com/5rathergood/djangoProj) | 
 | JJACK | 봉사활동 적립 앱 | SERVER | [Repo](https://github.com/orgs/JJACK-JJACK/repositories) | 
 
