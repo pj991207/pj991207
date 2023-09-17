@@ -14,8 +14,8 @@
 
 ### 광운대학교(KwangWoon Unversity)
 
-- 소프트웨어학부 시스텀소프트웨어전공(18학번)
-- 2018.03 ~ 2023.08 (졸업예정)
+- 소프트웨어학부 소프트웨어학부(18학번)
+- 2018.03 ~ 2024.02 (졸업예정)
 
 ### Best of the Best 11기
 
@@ -27,8 +27,9 @@
 
 # 👯Activities
 1. Init Cloud 프로젝트 - Terraform Parser 및 Report Tool 개발(2022.07~ 2023.03)
-2. 5ratherProj 프로젝트 - YOLOV5 + Deepsort 알고리즘 활용, 객체 인식 API 및 상권 분석 API 개발(2021.10 ~ 2022.03)
-3. JJACK 프로젝트 - Server 파트 (2019.07 ~ 2019.08)
+2. 어깨동무 프로젝트 - SpringBoot를 사용한 웹 개발 및 AWS, Docker를 사용한 배포 (2023.04 ~ 2023.06)
+3. 5ratherProj 프로젝트 - YOLOV5 + Deepsort 알고리즘 활용, 객체 인식 API 및 상권 분석 API 개발(2021.10 ~ 2022.03)
+4. JJACK 프로젝트 - Server 파트 (2019.07 ~ 2019.08)
 
 # Projects
 
